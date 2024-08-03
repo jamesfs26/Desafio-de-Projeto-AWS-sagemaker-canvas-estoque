@@ -25,7 +25,7 @@ Essas margens são importantes para entendermos um pouco como o SageMaker Canvas
 Quatro gráficos foram gerados para fazer a previsão da renovação do estoque e identificar os impactos capazes de causar mudanças significativamente nos preços e na forma que os pacotes seriam distribuídos no mercado.
 Os gráficos da Overview (visão geral) trazem diferentes formas de análise utilizando-se de diferentes métricas para calcular os impactos e gerar uma previsão capaz de tomar as melhores decisões em cenários adversos mediante as várias tendências de mercado.
 
-📊 Gráfico 01: Impacto do Peso do Pacote na previsão do tamanho da tela
+## 📊 Gráfico 01: Impacto do Peso do Pacote na previsão do tamanho da tela
 Neste gráfico, o impacto é calculado por meio de uma fórmula matemática que usa o valor inicial de referências e um cálculo de previsão ajustada.
 1.	Valor inicial de referência:
 Este é o valor do tamanho da tela antes de aplicar o impacto do peso do pacote. Vamos chamar este valor de Tamanho Inicial.
