@@ -406,7 +406,7 @@ Pensando neste público que a AWS desenvolveu recursos como os encontrados na pl
 ## 📋 Métrica RMSE:
 o RMSE (Root Mean-Square Error [inglês] Raiz Quadrada do Erro-Médio [RQEM - português), que é uma métrica de avaliação amplamente utilizada e reconhecida na comunidade de Machine Learning, é usada para medir o desempenho de modelos de regressão.
 Ela é calculada tomando-se a raiz quadrada da média dos quadrados dos erros, onde o erro bruto é a diferença entre o valor previsto pelo modelo e o valor real.
- 
+ ![image](https://github.com/user-attachments/assets/c56ae63c-c5bc-4408-b137-bec4e137e329)
 Onde:
 •	n é o número de amostras
 •	y_i é o valor observado para a amostra i
