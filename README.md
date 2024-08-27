@@ -40,15 +40,25 @@ Aplicação: Impacto calculado + Valor Inicial
 Fórmula:
 
 Tamanho_previsto – Tamanho_inicial + (Impacto X Diferença_no_Valor) =
+
 Exemplo:
+
 Peso do Pacote: 4.500 Kg = Tamanho_Inicial: 15.6 polegadas
+
 Impacto: -3.804
+
 Cálculo
+
 Tamanho Previsto – 15.6 + (-3.804)
+
 Tamanho Previsto – 15.6 – 11.796
+
 *Com o valor do impacto sobre a tela obtido (11.796), deve-se calcular se o tamanho da tela está adequado. Para tal deve-se fazer um cálculo de comparação junto a tabela de tamanhos da tela.
+
 Tamanhos da Tela: 10.1 | 11.6 | 12.3 | 12.5 | 13.3 | 13.5 | 14 | 15.6 | 17.3 e 18.4
+
 Cálculo de Comparação:
+
 10.1: 11.796 −10.1= 1.696
 11.6: 11.796 −11.6 = 0.196
 12.3: 11.796 −12.3 = 0.504
@@ -59,8 +69,11 @@ Cálculo de Comparação:
 15.6: 11.796 −15.6 = 3.804
 17.3: 11.796 − 17.3 = 5.504
 18.4: 11.796 − 18.4 = 6.604
+
 O valor de tamanho que mais se aproximar do valor obtido, é o adequado para se usar, para obter-se a previsão. Neste caso o tamanho de tela que mais se aproximou do valor foi o de 11.6 polegadas, que obteve a diferença de 0.196, a mais baixa em comparação ao valor obtido.
+
 Tamanho Previsto = Tela de 11.6 Polegadas
+
 O Peso do pacote (Package Weigth) conforme o aumento do tamanho da tela (Screensize) causa um impacto de 82.03% na variação de preço e porventura no encarecimento do produto.
 
 ## 📊 Gráfico 02: Impacto da Marca do Computador na previsão do tamanho da tela
