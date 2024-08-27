@@ -36,7 +36,9 @@ Tamanho Inicial = Valor do Tamanho da Tela (Sem o impacto do Peso do Pacote)
 Este aplica o impacto calculado ao valor inicial para obter a previsão ajustada do tamanho da tela.
 
 Aplicação: Impacto calculado + Valor Inicial
+
 Fórmula:
+
 Tamanho_previsto – Tamanho_inicial + (Impacto X Diferença_no_Valor) =
 Exemplo:
 Peso do Pacote: 4.500 Kg = Tamanho_Inicial: 15.6 polegadas
