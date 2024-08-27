@@ -59,15 +59,24 @@ Tamanhos da Tela: 10.1 | 11.6 | 12.3 | 12.5 | 13.3 | 13.5 | 14 | 15.6 | 17.3 e 1
 
 Cálculo de Comparação:
 
-10.1: 11.796 −10.1= 1.696
+10.1: 11.796 −10.1 = 1.696
+
 11.6: 11.796 −11.6 = 0.196
+
 12.3: 11.796 −12.3 = 0.504
+
 12.5: 11.796 −12.5 = 0.704
+
 13.3: 11.796 −13.3 = 1.504
+
 13.5: 11.796 −13.5 = 1.704
+
 14: 11.796 −14 = 2.204
+
 15.6: 11.796 −15.6 = 3.804
+
 17.3: 11.796 − 17.3 = 5.504
+
 18.4: 11.796 − 18.4 = 6.604
 
 O valor de tamanho que mais se aproximar do valor obtido, é o adequado para se usar, para obter-se a previsão. Neste caso o tamanho de tela que mais se aproximou do valor foi o de 11.6 polegadas, que obteve a diferença de 0.196, a mais baixa em comparação ao valor obtido.
